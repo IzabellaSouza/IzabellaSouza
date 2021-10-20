@@ -33,6 +33,19 @@
 <a href="https://www.behance.net/izabellagsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="izabellagsouza" height="30" width="40" /></a>
 </p>
 
+
+
+
+<!--
+How to make the bio gif ?
+Thanks to [mayto91](https://github.com/matyo91)
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
+
+
 <!--
 **IzabellaSouza/IzabellaSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
